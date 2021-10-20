@@ -1,0 +1,27 @@
+*
+input[type="text"] {
+    background-color:#ff0;
+  }
+  
+  #contenedor {
+    width:400px; 
+    margin-left:20px; 
+    margin-top:10px;
+    background-color:#ffe;
+    border:5px solid #CCC;
+    padding:10px 0 10px 0;
+    font-family:cursive;
+  }
+  
+  #contenedor form label {
+    width:300px; 
+    float:left;
+    font-family:cursive;
+    font-size:16px;
+  }
+  .boton {
+    color:rgb(255, 255, 255);
+    background-color:rgb(206, 129, 129);
+    border: 3px #fff;
+    font-family: cursive;
+  }
